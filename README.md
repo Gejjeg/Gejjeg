@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Godslove Johnson</h1>
 <h3 align="center">A junior full stack developer from Nigeria</h3>
 
-- 🔭 I’m currently working on [PancakeSwap clone](https://pancakeswap-clone-nine.vercel.app/#)
-
 - 🌱 I’m currently learning **Full stack development**
 
 - 👯 I’m looking to collaborate with a team on building **Web Applications base on Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gejjeg/](https://github.com/gejjeg/)
-
-- 💬 Ask me about **Javascript, React, Typescript**
 
 - 📫 How to reach me **godslovecomple@gmail.com**
 
