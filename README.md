@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gejjeg/](https://github.com/gejjeg/)
 
-- 📫 How to reach me **godslovecomple@gmail.com**
+- 📫 Reach me **godslovecomple@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1N5Kx8MIVvtAgjPBGAdBghzCx3LnxKwm0/view?usp=share_link](https://drive.google.com/file/d/1N5Kx8MIVvtAgjPBGAdBghzCx3LnxKwm0/view?usp=share_link)
 
