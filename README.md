@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Godslove Johnson</h1>
-<h3 align="center">A junior full stack developer from Nigeria</h3>
+<h3 align="center">A Frontend Developer from Nigeria</h3>
 
-- 🌱 I’m currently learning **Full stack development**
+- 🌱 I’m currently learning **Node.js**
 
-- 👯 I’m looking to collaborate with a team on building **Web Applications base on Node.js**
+- 👯 I’m looking to collaborate with a team on building **Web Applications**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gejjeg/](https://github.com/gejjeg/)
 
